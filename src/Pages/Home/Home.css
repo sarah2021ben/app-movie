@@ -1,0 +1,7 @@
+.home-title{   
+     margin: 0px 30px 50px;
+    }
+.movie-cards-bloc{
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

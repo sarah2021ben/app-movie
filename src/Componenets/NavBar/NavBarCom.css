@@ -1,0 +1,9 @@
+.navbar{
+    height: 100px;
+    margin-bottom: 87px;
+}
+.my-menu{
+    width: 50%;
+    margin-right: 35px;
+    justify-content: flex-end;
+}
